@@ -27,5 +27,15 @@ namespace mokivaraus
             Form2 form2 = new Form2(); // Create a new instance of the Form2 class
             form2.Show(); // Show the new form
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
